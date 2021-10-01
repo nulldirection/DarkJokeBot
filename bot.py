@@ -4,7 +4,7 @@ import random
 import telebot
 from telebot.types import Audio
 
-TOKEN = "1"
+TOKEN = "1977316434:AAGO0ceLtAHF25ZwMEEwem2-wvtjBC3gYmM"
 bot = telebot.TeleBot(TOKEN)
 
 keyboard = telebot.types.ReplyKeyboardMarkup(True)
